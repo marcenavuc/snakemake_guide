@@ -1,0 +1,1 @@
+Гайд по snakemake
