@@ -1,0 +1,5 @@
+Building DAG of jobs...
+MissingInputException in line 9 of /home/mark/Рабочий стол/bioinf/snakemake_guide/Snakefile:
+Missing input files for rule bwa_map:
+data/genome.fa
+data/samples/A.fastq

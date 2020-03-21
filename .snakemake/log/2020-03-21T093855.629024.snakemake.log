@@ -1,0 +1,4 @@
+Building DAG of jobs...
+WildcardError in line 16 of /home/mark/Рабочий стол/bioinf/snakemake_guide/Snakefile:
+Wildcards in input files cannot be determined from output files:
+'file'

@@ -1,0 +1,4 @@
+Building DAG of jobs...
+MissingInputException in line 8 of /home/mark/Рабочий стол/bioinf/snakemake_guide/Snakefile:
+Missing input files for rule word_counts:
+data/A.txt.txt

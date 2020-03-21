@@ -1,0 +1,4 @@
+Building DAG of jobs...
+MissingInputException in line 4 of /home/mark/Рабочий стол/bioinf/snakemake_guide/Snakefile:
+Missing input files for rule all:
+results.txt
