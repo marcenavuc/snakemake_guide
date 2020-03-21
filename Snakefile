@@ -3,7 +3,8 @@ SAMPLES = list(map(lambda x: x[:x.find('.')], os.listdir('data')))
 
 rule all:
 	input:
-		"results.txt"
+		"results.txt",
+		expand("{file}_wc.txt", file=SAMPLES)
 
 rule word_counts:
 	input:
